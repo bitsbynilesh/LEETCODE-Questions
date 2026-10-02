@@ -1,44 +1,77 @@
-# LeetCode Solutions
+<h1 align="center">⚡ LeetCode Solutions</h1>
 
-My personal collection of LeetCode solutions, built to strengthen data structures and algorithms and to prepare for technical interviews and internships.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Solving+problems.+Building+logic.;Data+Structures+%26+Algorithms;Consistency+over+intensity." alt="Typing SVG" />
+</p>
 
-## About
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synced%20with-LeetSync-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-DSA-8A2BE2?style=for-the-badge" />
+</p>
 
-I'm Nilesh Patel, a B.Tech Computer Science & Engineering (Data Science) student at PSIT Kanpur. I practice problems regularly to improve my problem-solving, and this repository is a record of that journey.
+---
 
-- **Language:** [C++ / Python / Java]
-- **Focus:** understand the approach first, then optimize time and space
-- **Platform:** LeetCode
+## 🧠 `whoami`
 
-## Topics
+```bash
+$ whoami
+nilesh-patel
 
-- Arrays and Strings
-- Recursion and Backtracking
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- Dynamic Programming
-- Sorting and Searching
-
-## Repository Structure
-
-Solutions are pushed automatically by the [LeetSync](https://github.com/LeetSync/LeetSync) extension whenever a submission is accepted. Each problem gets its own folder named after it, containing the solution file and a README with the problem statement.
-
-```
-problem-name/
-├── README.md
-└── solution file
+$ cat profile.txt
+role     : B.Tech CSE (Data Science) student
+college  : PSIT Kanpur
+goal     : crack technical interviews & land internships
+mindset  : understand first, optimize later
 ```
 
-## Approach
+---
 
-For each problem I try to:
+## 🛠️ Tech Stack
 
-1. Understand the problem and work through small examples by hand.
-2. Start with a brute-force solution.
-3. Improve it to a better time or space complexity.
-4. Review the accepted solution and note what I learned.
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-## Connect
+---
 
-- GitHub: [bitsbynilesh](https://github.com/bitsbynilesh)
+## 📚 Topics Covered
+
+| Area | Topics |
+|------|--------|
+| 🔢 **Basics** | Arrays, Strings, Hashing, Two Pointers |
+| 🔁 **Core** | Recursion, Backtracking, Sorting, Binary Search |
+| 🧱 **Structures** | Linked Lists, Stacks, Queues, Heaps |
+| 🌳 **Advanced** | Trees, Graphs, Dynamic Programming |
+
+---
+
+## 🔄 My Workflow
+
+```text
+ read problem ──► dry-run examples ──► brute force
+                                           │
+        review & note ◄── optimize ◄───────┘
+```
+
+1. **Understand** the problem and test small examples by hand.
+2. **Brute force** first, to get a working baseline.
+3. **Optimize** time and space complexity.
+4. **Review** the accepted solution and note the pattern learned.
+
+---
+
+## 📬 Connect
+
+<p>
+  <a href="https://github.com/bitsbynilesh">
+    <img src="https://img.shields.io/badge/GitHub-bitsbynilesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
