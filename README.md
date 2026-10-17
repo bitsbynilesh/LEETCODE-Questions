@@ -44,7 +44,7 @@ mindset  : understand first, optimize later
 
 | Total Unique Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|
-| **12** | **7** | **5** | **0** |
+| **13** | **8** | **5** | **0** |
 
 > All solutions are automatically synced directly from LeetCode using the [LeetSync](https://github.com/LeetSync/LeetSync) Chrome extension.
 
@@ -54,15 +54,15 @@ mindset  : understand first, optimize later
 
 | Topic | Problems Count | Jump to Section |
 |---|:---:|---|
-| 📦 Arrays | 8 | [Go to Arrays](#arrays) |
+| 📦 Arrays | 9 | [Go to Arrays](#arrays) |
 | 🎯 Two Pointers | 3 | [Go to Two Pointers](#two-pointers) |
-| ➕ Prefix Sum | 4 | [Go to Prefix Sum](#prefix-sum) |
+| ➕ Prefix Sum | 5 | [Go to Prefix Sum](#prefix-sum) |
 | 🔤 Strings | 2 | [Go to Strings](#strings) |
 | 🔍 Binary Search | 1 | [Go to Binary Search](#binary-search) |
 | 🔗 Linked Lists | 1 | [Go to Linked Lists](#linked-lists) |
 | 🥞 Stack and Queue | 1 | [Go to Stack and Queue](#stack-and-queue) |
 | ⚡ Dynamic Programming | 2 | [Go to Dynamic Programming](#dynamic-programming) |
-| 🔢 Math | 2 | [Go to Math](#math) |
+| 🔢 Math | 3 | [Go to Math](#math) |
 | #️⃣ Hashing | 1 | [Go to Hashing](#hashing) |
 | 💡 Greedy Algorithms | 1 | [Go to Greedy Algorithms](#greedy-algorithms) |
 | 🔄 Backtracking | 1 | [Go to Backtracking](#backtracking) |
@@ -81,6 +81,7 @@ mindset  : understand first, optimize later
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
 
@@ -98,6 +99,7 @@ mindset  : understand first, optimize later
 |---|---|---|---|
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
 
@@ -138,6 +140,7 @@ mindset  : understand first, optimize later
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 
 ### Hashing
