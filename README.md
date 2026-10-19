@@ -44,7 +44,7 @@ mindset  : understand first, optimize later
 
 | Total Unique Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|
-| **13** | **8** | **5** | **0** |
+| **16** | **10** | **6** | **0** |
 
 > All solutions are automatically synced directly from LeetCode using the [LeetSync](https://github.com/LeetSync/LeetSync) Chrome extension.
 
@@ -62,7 +62,8 @@ mindset  : understand first, optimize later
 | 🔗 Linked Lists | 1 | [Go to Linked Lists](#linked-lists) |
 | 🥞 Stack and Queue | 1 | [Go to Stack and Queue](#stack-and-queue) |
 | ⚡ Dynamic Programming | 2 | [Go to Dynamic Programming](#dynamic-programming) |
-| 🔢 Math | 3 | [Go to Math](#math) |
+| 🔢 Math | 6 | [Go to Math](#math) |
+| 🔁 Recursion | 1 | [Go to Recursion](#recursion) |
 | #️⃣ Hashing | 1 | [Go to Hashing](#hashing) |
 | 💡 Greedy Algorithms | 1 | [Go to Greedy Algorithms](#greedy-algorithms) |
 | 🔄 Backtracking | 1 | [Go to Backtracking](#backtracking) |
@@ -139,9 +140,18 @@ mindset  : understand first, optimize later
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
+
+### Recursion
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) |
 
 ### Hashing
 
