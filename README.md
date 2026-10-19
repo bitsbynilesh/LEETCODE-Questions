@@ -44,7 +44,7 @@ mindset  : understand first, optimize later
 
 | Total Unique Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|
-| **16** | **10** | **6** | **0** |
+| **17** | **11** | **6** | **0** |
 
 > All solutions are automatically synced directly from LeetCode using the [LeetSync](https://github.com/LeetSync/LeetSync) Chrome extension.
 
@@ -54,11 +54,12 @@ mindset  : understand first, optimize later
 
 | Topic | Problems Count | Jump to Section |
 |---|:---:|---|
-| 📦 Arrays | 9 | [Go to Arrays](#arrays) |
+| 📦 Arrays | 10 | [Go to Arrays](#arrays) |
 | 🎯 Two Pointers | 3 | [Go to Two Pointers](#two-pointers) |
 | ➕ Prefix Sum | 5 | [Go to Prefix Sum](#prefix-sum) |
 | 🔤 Strings | 2 | [Go to Strings](#strings) |
-| 🔍 Binary Search | 1 | [Go to Binary Search](#binary-search) |
+| 🔍 Binary Search | 2 | [Go to Binary Search](#binary-search) |
+| 🔀 Sorting | 3 | [Go to Sorting](#sorting) |
 | 🔗 Linked Lists | 1 | [Go to Linked Lists](#linked-lists) |
 | 🥞 Stack and Queue | 1 | [Go to Stack and Queue](#stack-and-queue) |
 | ⚡ Dynamic Programming | 2 | [Go to Dynamic Programming](#dynamic-programming) |
@@ -84,6 +85,7 @@ mindset  : understand first, optimize later
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
 
 ### Two Pointers
@@ -116,6 +118,15 @@ mindset  : understand first, optimize later
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+
+### Sorting
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 
 ### Linked Lists
 
