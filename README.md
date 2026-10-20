@@ -44,7 +44,7 @@ mindset  : understand first, optimize later
 
 | Total Unique Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|
-| **17** | **11** | **6** | **0** |
+| **18** | **11** | **7** | **0** |
 
 > All solutions are automatically synced directly from LeetCode using the [LeetSync](https://github.com/LeetSync/LeetSync) Chrome extension.
 
@@ -55,15 +55,15 @@ mindset  : understand first, optimize later
 | Topic | Problems Count | Jump to Section |
 |---|:---:|---|
 | 📦 Arrays | 10 | [Go to Arrays](#arrays) |
-| 🎯 Two Pointers | 3 | [Go to Two Pointers](#two-pointers) |
+| 🎯 Two Pointers | 4 | [Go to Two Pointers](#two-pointers) |
 | ➕ Prefix Sum | 5 | [Go to Prefix Sum](#prefix-sum) |
 | 🔤 Strings | 2 | [Go to Strings](#strings) |
-| 🔍 Binary Search | 2 | [Go to Binary Search](#binary-search) |
+| 🔍 Binary Search | 3 | [Go to Binary Search](#binary-search) |
 | 🔀 Sorting | 3 | [Go to Sorting](#sorting) |
 | 🔗 Linked Lists | 1 | [Go to Linked Lists](#linked-lists) |
 | 🥞 Stack and Queue | 1 | [Go to Stack and Queue](#stack-and-queue) |
 | ⚡ Dynamic Programming | 2 | [Go to Dynamic Programming](#dynamic-programming) |
-| 🔢 Math | 6 | [Go to Math](#math) |
+| 🔢 Math | 7 | [Go to Math](#math) |
 | 🔁 Recursion | 1 | [Go to Recursion](#recursion) |
 | #️⃣ Hashing | 1 | [Go to Hashing](#hashing) |
 | 💡 Greedy Algorithms | 1 | [Go to Greedy Algorithms](#greedy-algorithms) |
@@ -95,6 +95,7 @@ mindset  : understand first, optimize later
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 
 ### Prefix Sum
 
@@ -118,6 +119,7 @@ mindset  : understand first, optimize later
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 
 ### Sorting
@@ -155,6 +157,7 @@ mindset  : understand first, optimize later
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 
