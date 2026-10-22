@@ -34,6 +34,7 @@ mindset  : understand first, optimize later
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
@@ -44,7 +45,7 @@ mindset  : understand first, optimize later
 
 | Total Unique Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:---:|:---:|:---:|:---:|
-| **19** | **11** | **8** | **0** |
+| **22** | **14** | **8** | **0** |
 
 > All solutions are automatically synced directly from LeetCode using the [LeetSync](https://github.com/LeetSync/LeetSync) Chrome extension.
 
@@ -65,6 +66,7 @@ mindset  : understand first, optimize later
 | ⚡ Dynamic Programming | 2 | [Go to Dynamic Programming](#dynamic-programming) |
 | 🔢 Math | 7 | [Go to Math](#math) |
 | 🔁 Recursion | 1 | [Go to Recursion](#recursion) |
+| 🗄️ Database | 3 | [Go to Database](#database) |
 | #️⃣ Hashing | 1 | [Go to Hashing](#hashing) |
 | 💡 Greedy Algorithms | 1 | [Go to Greedy Algorithms](#greedy-algorithms) |
 | 🔄 Backtracking | 1 | [Go to Backtracking](#backtracking) |
@@ -168,6 +170,14 @@ mindset  : understand first, optimize later
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) |
+
+### Database
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | [View Solution](./584-find-customer-referee/find-customer-referee.sql) |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | [View Solution](./595-big-countries/big-countries.sql) |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | 🟢 Easy | [View Solution](./610-triangle-judgement/triangle-judgement.sql) |
 
 ### Hashing
 
