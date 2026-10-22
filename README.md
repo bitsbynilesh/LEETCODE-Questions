@@ -153,125 +153,125 @@ A comprehensive catalog of all 22 solved problems, ordered by public LeetCode pr
 
 ### Arrays
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) |
-| 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
-| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
-| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
-| 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
-| 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) |
-| 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
-| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
-| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
-| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) | [Solve ↗](https://leetcode.com/problems/3sum/) |
+| 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
+| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
+| 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
+| 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) | [Solve ↗](https://leetcode.com/problems/running-sum-of-1d-array/) |
+| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
+| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
+| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
 ### Two Pointers
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) |
-| 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
-| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
-| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) | [Solve ↗](https://leetcode.com/problems/3sum/) |
+| 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
+| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
 
 ### Prefix Sum
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
-| 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) |
-| 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
-| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
-| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
+| 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
+| 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) | [Solve ↗](https://leetcode.com/problems/running-sum-of-1d-array/) |
+| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
+| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
 ### Strings
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
-| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) | [Solve ↗](https://leetcode.com/problems/generate-parentheses/) |
+| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 
 ### Binary Search
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
-| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
-| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 
 ### Sorting
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) |
-| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
-| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) | [Solve ↗](https://leetcode.com/problems/3sum/) |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
+| 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 
 ### Database
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | [View Solution](./584-find-customer-referee/find-customer-referee.sql) |
-| 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | [View Solution](./595-big-countries/big-countries.sql) |
-| 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | [View Solution](./610-triangle-judgement/triangle-judgement.sql) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | [View Solution](./584-find-customer-referee/find-customer-referee.sql) | [Solve ↗](https://leetcode.com/problems/find-customer-referee/) |
+| 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | [View Solution](./595-big-countries/big-countries.sql) | [Solve ↗](https://leetcode.com/problems/big-countries/) |
+| 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | [View Solution](./610-triangle-judgement/triangle-judgement.sql) | [Solve ↗](https://leetcode.com/problems/triangle-judgement/) |
 
 ### Linked Lists
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 237 | [Delete Node in a Linked List](./237-delete-node-in-a-linked-list/) | 🟡 Medium | [View Solution](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 237 | [Delete Node in a Linked List](./237-delete-node-in-a-linked-list/) | 🟡 Medium | [View Solution](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) | [Solve ↗](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 
 ### Stack and Queue
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 
 ### Dynamic Programming
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
-| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) | [Solve ↗](https://leetcode.com/problems/generate-parentheses/) |
+| 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
 ### Math
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) |
-| 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) |
-| 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) |
-| 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) |
-| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
-| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) | [Solve ↗](https://leetcode.com/problems/powx-n/) |
+| 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) | [Solve ↗](https://leetcode.com/problems/add-digits/) |
+| 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) | [Solve ↗](https://leetcode.com/problems/nim-game/) |
+| 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
 
 ### Recursion
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) | [Solve ↗](https://leetcode.com/problems/powx-n/) |
 
 ### Hashing
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
 ### Greedy Algorithms
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 
 ### Backtracking
 
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) | [Solve ↗](https://leetcode.com/problems/generate-parentheses/) |
 
 ---
 
