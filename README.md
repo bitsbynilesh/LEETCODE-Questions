@@ -7,18 +7,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3400&pause=1000&color=FF9F43&center=true&vCenter=true&width=620&height=45&lines=Solving+problems.+Building+logic.;Data+Structures+%26+Algorithms+in+C%2B%2B;Database+queries+in+MySQL+%2F+SQL;Targeted+topic-wise+revision;Consistency+over+intensity." alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FF9F43&labelColor=0D1117" alt="Language C++" />
-  <img src="https://img.shields.io/badge/Database-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFC078&labelColor=0D1117" alt="Database SQL" />
-  <img src="https://img.shields.io/badge/Platform-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Sync-LeetSync-0D1117?style=for-the-badge&logo=github&logoColor=3FB950&labelColor=0D1117" alt="LeetSync" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Language C++" />
+  <img src="https://img.shields.io/badge/DATABASE-SQL-58A6FF?style=for-the-badge&labelColor=58A6FF" alt="Database SQL" />
+  <img src="https://img.shields.io/badge/PLATFORM-LEETCODE-FFA116?style=for-the-badge&labelColor=FFA116" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/SYNC-LEETSYNC-3FB950?style=for-the-badge&labelColor=3FB950" alt="LeetSync" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-22-0D1117?style=flat-square&labelColor=0D1117&color=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-14-0D1117?style=flat-square&labelColor=0D1117&color=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-8-0D1117?style=flat-square&labelColor=0D1117&color=D29922" alt="Medium Solved" />
-  <img src="https://img.shields.io/badge/Hard-0-0D1117?style=flat-square&labelColor=0D1117&color=F85149" alt="Hard Solved" />
-  <img src="https://img.shields.io/badge/Topics-12-0D1117?style=flat-square&labelColor=0D1117&color=FFC078" alt="Topics Count" />
+  <img src="https://img.shields.io/badge/Total_Solved-22-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-14-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-8-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
+  <img src="https://img.shields.io/badge/Topics-12-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
 
 **[📖 Overview](#repository-overview) · [📊 Dashboard](#progress-dashboard) · [🧭 Topics](#topic-wise-index) · [📋 Problem Index](#complete-problem-index) · [📂 Solutions](#solutions-by-topic) · [🏗️ Structure](#repository-structure) · [🔄 Workflow](#workflow-and-learning)**
