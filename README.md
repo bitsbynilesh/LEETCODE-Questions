@@ -14,11 +14,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-22-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-23-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
   <img src="https://img.shields.io/badge/Easy-14-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-8-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Medium-9-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
-  <img src="https://img.shields.io/badge/Topics-12-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
+  <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
 
 **[📖 Overview](#repository-overview) · [📊 Dashboard](#progress-dashboard) · [🧭 Topics](#topic-wise-index) · [📋 Problem Index](#complete-problem-index) · [📂 Solutions](#solutions-by-topic) · [🏗️ Structure](#repository-structure) · [🔄 Workflow](#workflow-and-learning)**
@@ -81,11 +81,11 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **22** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **14** | 63.6% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **8** | 36.4% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **23** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **14** | 60.9% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **9** | 39.1% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
-| 🏷️ **Topics Represented** | **12** | — | ![#FFC078](https://img.shields.io/badge/-12%20Categories-FFC078?style=flat-square) |
+| 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
 > ℹ️ *Note: A problem may cross-apply to multiple algorithmic categories (e.g., both Arrays and Prefix Sum), but is counted exactly once in the overall unique total.*
 
@@ -101,7 +101,8 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 📦 **Arrays** | Linear Data Structures | 11 | [View Arrays](#arrays) |
 | 🎯 **Two Pointers** | Algorithmic Techniques | 4 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 6 | [View Prefix Sum](#prefix-sum) |
-| 🔤 **Strings** | Linear Data Structures | 2 | [View Strings](#strings) |
+| 🪟 **Sliding Window** | Algorithmic Techniques | 1 | [View Sliding Window](#sliding-window) |
+| 🔤 **Strings** | Linear Data Structures | 3 | [View Strings](#strings) |
 | 🔍 **Binary Search** | Searching & Sorting | 3 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 3 | [View Sorting](#sorting) |
 | 🗄️ **Database** | SQL & Relational Queries | 3 | [View Database](#database) |
@@ -110,7 +111,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
 | 🔗 **Linked Lists** | Linear Data Structures | 1 | [View Linked Lists](#linked-lists) |
 | 🔁 **Recursion** | Core Foundations | 1 | [View Recursion](#recursion) |
-| #️⃣ **Hashing** | Associative Structures | 1 | [View Hashing](#hashing) |
+| #️⃣ **Hashing** | Associative Structures | 2 | [View Hashing](#hashing) |
 | 💡 **Greedy Algorithms** | Optimization Techniques | 1 | [View Greedy Algorithms](#greedy-algorithms) |
 | 🔄 **Backtracking** | Exhaustive Search | 1 | [View Backtracking](#backtracking) |
 
@@ -119,10 +120,11 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 22 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 23 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | Strings, Hashing, Sliding Window | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
 | 15 | [3Sum](./15-3sum/) | 🟡 Medium | Two Pointers, Arrays, Sorting | [View Solution](./15-3sum/3sum.cpp) |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | Strings, Backtracking, Dynamic Programming | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | Two Pointers, Arrays | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
@@ -187,10 +189,17 @@ A comprehensive catalog of all 22 solved problems, ordered by public LeetCode pr
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
 | 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
+### Sliding Window
+
+| # | Problem | Difficulty | Solution | Links |
+|---|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+
 ### Strings
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) | [Solve ↗](https://leetcode.com/problems/generate-parentheses/) |
 | 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 
@@ -259,6 +268,7 @@ A comprehensive catalog of all 22 solved problems, ordered by public LeetCode pr
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
 ### Greedy Algorithms
@@ -293,7 +303,7 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (22 problem directories)
+├── ... (23 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
