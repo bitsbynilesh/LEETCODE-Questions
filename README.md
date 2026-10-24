@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-23-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-14-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-9-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-25-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-15-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-10-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **23** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **14** | 60.9% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **9** | 39.1% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **25** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **15** | 60.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **10** | 40.0% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -105,8 +105,8 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 🔤 **Strings** | Linear Data Structures | 3 | [View Strings](#strings) |
 | 🔍 **Binary Search** | Searching & Sorting | 3 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 3 | [View Sorting](#sorting) |
-| 🗄️ **Database** | SQL & Relational Queries | 3 | [View Database](#database) |
-| 🔢 **Math** | Mathematical Techniques | 7 | [View Math](#math) |
+| 🗄️ **Database** | SQL & Relational Queries | 4 | [View Database](#database) |
+| 🔢 **Math** | Mathematical Techniques | 8 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 2 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
 | 🔗 **Linked Lists** | Linear Data Structures | 1 | [View Linked Lists](#linked-lists) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 23 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 25 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -136,6 +136,7 @@ A comprehensive catalog of all 23 solved problems, ordered by public LeetCode pr
 | 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | Math, Simulation | [View Solution](./258-add-digits/add-digits.cpp) |
 | 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | Math, Game Theory | [View Solution](./292-nim-game/nim-game.cpp) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | Prefix Sum, Arrays | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
+| 319 | [Bulb Switcher](./319-bulb-switcher/) | 🟡 Medium | Math | [View Solution](./319-bulb-switcher/bulb-switcher.cpp) |
 | 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | Database | [View Solution](./584-find-customer-referee/find-customer-referee.sql) |
 | 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | Database | [View Solution](./595-big-countries/big-countries.sql) |
 | 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | Database | [View Solution](./610-triangle-judgement/triangle-judgement.sql) |
@@ -145,6 +146,7 @@ A comprehensive catalog of all 23 solved problems, ordered by public LeetCode pr
 | 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | Prefix Sum, Arrays | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | Arrays, Prefix Sum, Math | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | Arrays, Prefix Sum, Math | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
+| 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | Database | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |
 | 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays, Binary Search, Sorting | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
 | 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | Arrays, Prefix Sum, Hashing | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
 
@@ -226,6 +228,7 @@ A comprehensive catalog of all 23 solved problems, ordered by public LeetCode pr
 | 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | [View Solution](./584-find-customer-referee/find-customer-referee.sql) | [Solve ↗](https://leetcode.com/problems/find-customer-referee/) |
 | 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | [View Solution](./595-big-countries/big-countries.sql) | [Solve ↗](https://leetcode.com/problems/big-countries/) |
 | 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | [View Solution](./610-triangle-judgement/triangle-judgement.sql) | [Solve ↗](https://leetcode.com/problems/triangle-judgement/) |
+| 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | [Solve ↗](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 
 ### Linked Lists
 
@@ -254,6 +257,7 @@ A comprehensive catalog of all 23 solved problems, ordered by public LeetCode pr
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
 | 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) | [Solve ↗](https://leetcode.com/problems/add-digits/) |
 | 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) | [Solve ↗](https://leetcode.com/problems/nim-game/) |
+| 319 | [Bulb Switcher](./319-bulb-switcher/) | 🟡 Medium | [View Solution](./319-bulb-switcher/bulb-switcher.cpp) | [Solve ↗](https://leetcode.com/problems/bulb-switcher/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
@@ -303,11 +307,11 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (23 problem directories)
+├── ... (25 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
-> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #1109, #1480, #1588, #1744, #2089, #2848), LeetSync uses LeetCode's internal database `questionId` (e.g., `1206` for #1109). All links in this index point directly to the exact folders and solution files.*
+> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #1109, #1480, #1588, #1744, #1757, #2089, #2848), LeetSync uses LeetCode's internal database `questionId` (e.g., `1206` for #1109, `1908` for #1757). All links in this index point directly to the exact folders and solution files.*
 
 ---
 
