@@ -14,8 +14,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-25-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-15-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-26-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-16-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
   <img src="https://img.shields.io/badge/Medium-10-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **25** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **15** | 60.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **10** | 40.0% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **26** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **16** | 61.5% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **10** | 38.5% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -102,11 +102,11 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 🎯 **Two Pointers** | Algorithmic Techniques | 4 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 6 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 1 | [View Sliding Window](#sliding-window) |
-| 🔤 **Strings** | Linear Data Structures | 3 | [View Strings](#strings) |
+| 🔤 **Strings** | Linear Data Structures | 4 | [View Strings](#strings) |
 | 🔍 **Binary Search** | Searching & Sorting | 3 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 3 | [View Sorting](#sorting) |
 | 🗄️ **Database** | SQL & Relational Queries | 4 | [View Database](#database) |
-| 🔢 **Math** | Mathematical Techniques | 8 | [View Math](#math) |
+| 🔢 **Math** | Mathematical Techniques | 9 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 2 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
 | 🔗 **Linked Lists** | Linear Data Structures | 1 | [View Linked Lists](#linked-lists) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 25 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 26 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -148,6 +148,7 @@ A comprehensive catalog of all 25 solved problems, ordered by public LeetCode pr
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | Arrays, Prefix Sum, Math | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 | 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | Database | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |
 | 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays, Binary Search, Sorting | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) |
+| 2409 | [Count Days Spent Together](./2496-count-days-spent-together/) | 🟢 Easy | Math, Strings | [View Solution](./2496-count-days-spent-together/count-days-spent-together.cpp) |
 | 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | Arrays, Prefix Sum, Hashing | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) |
 
 ---
@@ -204,6 +205,7 @@ A comprehensive catalog of all 25 solved problems, ordered by public LeetCode pr
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) | [Solve ↗](https://leetcode.com/problems/generate-parentheses/) |
 | 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
+| 2409 | [Count Days Spent Together](./2496-count-days-spent-together/) | 🟢 Easy | [View Solution](./2496-count-days-spent-together/count-days-spent-together.cpp) | [Solve ↗](https://leetcode.com/problems/count-days-spent-together/) |
 
 ### Binary Search
 
@@ -261,6 +263,7 @@ A comprehensive catalog of all 25 solved problems, ordered by public LeetCode pr
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | [Solve ↗](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) |
+| 2409 | [Count Days Spent Together](./2496-count-days-spent-together/) | 🟢 Easy | [View Solution](./2496-count-days-spent-together/count-days-spent-together.cpp) | [Solve ↗](https://leetcode.com/problems/count-days-spent-together/) |
 
 ### Recursion
 
@@ -307,11 +310,11 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (25 problem directories)
+├── ... (26 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
-> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #1109, #1480, #1588, #1744, #1757, #2089, #2848), LeetSync uses LeetCode's internal database `questionId` (e.g., `1206` for #1109, `1908` for #1757). All links in this index point directly to the exact folders and solution files.*
+> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #1109, #1480, #1588, #1744, #1757, #2089, #2409, #2848), LeetSync uses LeetCode's internal database `questionId` (e.g., `1206` for #1109, `1908` for #1757, `2496` for #2409). All links in this index point directly to the exact folders and solution files.*
 
 ---
 
