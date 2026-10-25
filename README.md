@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-26-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-27-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
   <img src="https://img.shields.io/badge/Easy-16-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-10-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Medium-11-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **26** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **16** | 61.5% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **10** | 38.5% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **27** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **16** | 59.3% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **11** | 40.7% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -99,7 +99,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
 | 📦 **Arrays** | Linear Data Structures | 11 | [View Arrays](#arrays) |
-| 🎯 **Two Pointers** | Algorithmic Techniques | 4 | [View Two Pointers](#two-pointers) |
+| 🎯 **Two Pointers** | Algorithmic Techniques | 5 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 6 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 1 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 4 | [View Strings](#strings) |
@@ -109,7 +109,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 🔢 **Math** | Mathematical Techniques | 9 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 2 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
-| 🔗 **Linked Lists** | Linear Data Structures | 1 | [View Linked Lists](#linked-lists) |
+| 🔗 **Linked Lists** | Linear Data Structures | 2 | [View Linked Lists](#linked-lists) |
 | 🔁 **Recursion** | Core Foundations | 1 | [View Recursion](#recursion) |
 | #️⃣ **Hashing** | Associative Structures | 2 | [View Hashing](#hashing) |
 | 💡 **Greedy Algorithms** | Optimization Techniques | 1 | [View Greedy Algorithms](#greedy-algorithms) |
@@ -120,12 +120,13 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 26 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 27 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | Strings, Hashing, Sliding Window | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
 | 15 | [3Sum](./15-3sum/) | 🟡 Medium | Two Pointers, Arrays, Sorting | [View Solution](./15-3sum/3sum.cpp) |
+| 19 | [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked Lists, Two Pointers | [View Solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp) |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | Strings, Backtracking, Dynamic Programming | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | Two Pointers, Arrays | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | Math, Recursion | [View Solution](./50-powx-n/powx-n.cpp) |
@@ -177,6 +178,7 @@ A comprehensive catalog of all 26 solved problems, ordered by public LeetCode pr
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
 | 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) | [Solve ↗](https://leetcode.com/problems/3sum/) |
+| 19 | [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list/) | 🟡 Medium | [View Solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp) | [Solve ↗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
@@ -236,6 +238,7 @@ A comprehensive catalog of all 26 solved problems, ordered by public LeetCode pr
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 19 | [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list/) | 🟡 Medium | [View Solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp) | [Solve ↗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 237 | [Delete Node in a Linked List](./237-delete-node-in-a-linked-list/) | 🟡 Medium | [View Solution](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) | [Solve ↗](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 
 ### Stack and Queue
@@ -310,7 +313,7 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (26 problem directories)
+├── ... (27 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
