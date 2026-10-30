@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-34-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-19-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-15-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-39-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-23-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-16-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **34** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **19** | 55.9% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **15** | 44.1% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **39** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **23** | 59.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **16** | 41.0% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -98,14 +98,14 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 15 | [View Arrays](#arrays) |
+| 📦 **Arrays** | Linear Data Structures | 16 | [View Arrays](#arrays) |
 | 🎯 **Two Pointers** | Algorithmic Techniques | 6 | [View Two Pointers](#two-pointers) |
-| ➕ **Prefix Sum** | Algorithmic Techniques | 8 | [View Prefix Sum](#prefix-sum) |
-| 🪟 **Sliding Window** | Algorithmic Techniques | 2 | [View Sliding Window](#sliding-window) |
+| ➕ **Prefix Sum** | Algorithmic Techniques | 9 | [View Prefix Sum](#prefix-sum) |
+| 🪟 **Sliding Window** | Algorithmic Techniques | 3 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 5 | [View Strings](#strings) |
-| 🔍 **Binary Search** | Searching & Sorting | 3 | [View Binary Search](#binary-search) |
+| 🔍 **Binary Search** | Searching & Sorting | 4 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 3 | [View Sorting](#sorting) |
-| 🗄️ **Database** | SQL & Relational Queries | 5 | [View Database](#database) |
+| 🗄️ **Database** | SQL & Relational Queries | 9 | [View Database](#database) |
 | 🔢 **Math** | Mathematical Techniques | 9 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 3 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 34 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 39 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -134,6 +134,8 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | Binary Search, Math | [View Solution](./69-sqrtx/sqrtx.cpp) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | Two Pointers, Arrays, Sorting | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays, Dynamic Programming | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
+| 182 | [Duplicate Emails](./182-duplicate-emails/) | 🟢 Easy | Database | [View Solution](./182-duplicate-emails/duplicate-emails.sql) |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | Arrays, Binary Search, Sliding Window, Prefix Sum | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) |
 | 237 | [Delete Node in a Linked List](./237-delete-node-in-a-linked-list/) | 🟡 Medium | Linked Lists | [View Solution](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) |
 | 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | Math, Simulation | [View Solution](./258-add-digits/add-digits.cpp) |
 | 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | Math, Game Theory | [View Solution](./292-nim-game/nim-game.cpp) |
@@ -143,7 +145,10 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | Arrays, Prefix Sum, Hashing | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) |
 | 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | Database | [View Solution](./584-find-customer-referee/find-customer-referee.sql) |
 | 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | Database | [View Solution](./595-big-countries/big-countries.sql) |
+| 596 | [Classes With at Least 5 Students](./596-classes-with-at-least-5-students/) | 🟢 Easy | Database | [View Solution](./596-classes-with-at-least-5-students/classes-with-at-least-5-students.sql) |
 | 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | Database | [View Solution](./610-triangle-judgement/triangle-judgement.sql) |
+| 620 | [Not Boring Movies](./620-not-boring-movies/) | 🟢 Easy | Database | [View Solution](./620-not-boring-movies/not-boring-movies.sql) |
+| 627 | [Swap Sex of Employees](./627-swap-sex-of-employees/) | 🟢 Easy | Database | [View Solution](./627-swap-sex-of-employees/swap-sex-of-employees.sql) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | Two Pointers, Binary Search, Math | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 | 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | Stack and Queue, Strings, Greedy Algorithms | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | Arrays, Prefix Sum | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) |
@@ -172,6 +177,7 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
@@ -199,6 +205,7 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
@@ -213,6 +220,7 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement/) | 🟡 Medium | [View Solution](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.cpp) | [Solve ↗](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 
 ### Strings
@@ -230,6 +238,7 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 
@@ -245,9 +254,13 @@ A comprehensive catalog of all 34 solved problems, ordered by public LeetCode pr
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 182 | [Duplicate Emails](./182-duplicate-emails/) | 🟢 Easy | [View Solution](./182-duplicate-emails/duplicate-emails.sql) | [Solve ↗](https://leetcode.com/problems/duplicate-emails/) |
 | 584 | [Find Customer Referee](./584-find-customer-referee/) | 🟢 Easy | [View Solution](./584-find-customer-referee/find-customer-referee.sql) | [Solve ↗](https://leetcode.com/problems/find-customer-referee/) |
 | 595 | [Big Countries](./595-big-countries/) | 🟢 Easy | [View Solution](./595-big-countries/big-countries.sql) | [Solve ↗](https://leetcode.com/problems/big-countries/) |
+| 596 | [Classes With at Least 5 Students](./596-classes-with-at-least-5-students/) | 🟢 Easy | [View Solution](./596-classes-with-at-least-5-students/classes-with-at-least-5-students.sql) | [Solve ↗](https://leetcode.com/problems/classes-with-at-least-5-students/) |
 | 610 | [Triangle Judgement](./610-triangle-judgement/) | 🟢 Easy | [View Solution](./610-triangle-judgement/triangle-judgement.sql) | [Solve ↗](https://leetcode.com/problems/triangle-judgement/) |
+| 620 | [Not Boring Movies](./620-not-boring-movies/) | 🟢 Easy | [View Solution](./620-not-boring-movies/not-boring-movies.sql) | [Solve ↗](https://leetcode.com/problems/not-boring-movies/) |
+| 627 | [Swap Sex of Employees](./627-swap-sex-of-employees/) | 🟢 Easy | [View Solution](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | [Solve ↗](https://leetcode.com/problems/swap-sex-of-employees/) |
 | 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | [Solve ↗](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 | 1873 | [Calculate Special Bonus](./2024-calculate-special-bonus/) | 🟢 Easy | [View Solution](./2024-calculate-special-bonus/calculate-special-bonus.sql) | [Solve ↗](https://leetcode.com/problems/calculate-special-bonus/) |
 
@@ -334,7 +347,7 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (34 problem directories)
+├── ... (39 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
