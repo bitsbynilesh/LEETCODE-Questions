@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-39-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-40-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
   <img src="https://img.shields.io/badge/Easy-23-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-16-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Medium-17-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **39** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **23** | 59.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **16** | 41.0% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **40** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **23** | 57.5% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **17** | 42.5% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -98,9 +98,9 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 16 | [View Arrays](#arrays) |
+| 📦 **Arrays** | Linear Data Structures | 17 | [View Arrays](#arrays) |
 | 🎯 **Two Pointers** | Algorithmic Techniques | 6 | [View Two Pointers](#two-pointers) |
-| ➕ **Prefix Sum** | Algorithmic Techniques | 9 | [View Prefix Sum](#prefix-sum) |
+| ➕ **Prefix Sum** | Algorithmic Techniques | 10 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 3 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 5 | [View Strings](#strings) |
 | 🔍 **Binary Search** | Searching & Sorting | 4 | [View Binary Search](#binary-search) |
@@ -111,7 +111,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 | 🥞 **Stack and Queue** | Linear Data Structures | 1 | [View Stack and Queue](#stack-and-queue) |
 | 🔗 **Linked Lists** | Linear Data Structures | 3 | [View Linked Lists](#linked-lists) |
 | 🔁 **Recursion** | Core Foundations | 1 | [View Recursion](#recursion) |
-| #️⃣ **Hashing** | Associative Structures | 4 | [View Hashing](#hashing) |
+| #️⃣ **Hashing** | Associative Structures | 5 | [View Hashing](#hashing) |
 | 💡 **Greedy Algorithms** | Optimization Techniques | 1 | [View Greedy Algorithms](#greedy-algorithms) |
 | 🔄 **Backtracking** | Exhaustive Search | 1 | [View Backtracking](#backtracking) |
 
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 39 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 40 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -151,6 +151,7 @@ A comprehensive catalog of all 39 solved problems, ordered by public LeetCode pr
 | 627 | [Swap Sex of Employees](./627-swap-sex-of-employees/) | 🟢 Easy | Database | [View Solution](./627-swap-sex-of-employees/swap-sex-of-employees.sql) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | Two Pointers, Binary Search, Math | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
 | 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | Stack and Queue, Strings, Greedy Algorithms | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
+| 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | Arrays, Prefix Sum, Hashing | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | Arrays, Prefix Sum | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) |
 | 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | Prefix Sum, Arrays | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | Arrays, Prefix Sum, Math | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
@@ -180,6 +181,7 @@ A comprehensive catalog of all 39 solved problems, ordered by public LeetCode pr
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
 | 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) | [Solve ↗](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
@@ -208,6 +210,7 @@ A comprehensive catalog of all 39 solved problems, ordered by public LeetCode pr
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
 | 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) | [Solve ↗](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
@@ -313,6 +316,7 @@ A comprehensive catalog of all 39 solved problems, ordered by public LeetCode pr
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement/) | 🟡 Medium | [View Solution](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.cpp) | [Solve ↗](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
 | 2848 | [Points That Intersect With Cars](./3034-points-that-intersect-with-cars/) | 🟢 Easy | [View Solution](./3034-points-that-intersect-with-cars/points-that-intersect-with-cars.cpp) | [Solve ↗](https://leetcode.com/problems/points-that-intersect-with-cars/) |
 
 ### Greedy Algorithms
@@ -347,11 +351,11 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (39 problem directories)
+├── ... (40 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
-> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #1109, #1480, #1588, #1744, #1749, #1757, #1873, #1991, #2089, #2409, #2848, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `1206` for #1109, `1849` for #1749, `1908` for #1757, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
+> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #974, #1109, #1480, #1588, #1744, #1749, #1757, #1873, #1991, #2089, #2409, #2848, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `1016` for #974, `1206` for #1109, `1849` for #1749, `1908` for #1757, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
 
 ---
 
