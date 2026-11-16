@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-50-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-27-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-23-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-52-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-28-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-24-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **50** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **27** | 54.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **23** | 46.0% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **52** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **28** | 53.8% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **24** | 46.2% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -98,20 +98,20 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 25 | [View Arrays](#arrays) |
-| 🎯 **Two Pointers** | Algorithmic Techniques | 9 | [View Two Pointers](#two-pointers) |
+| 📦 **Arrays** | Linear Data Structures | 27 | [View Arrays](#arrays) |
+| 🎯 **Two Pointers** | Algorithmic Techniques | 10 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 10 | [View Prefix Sum](#prefix-sum) |
-| 🪟 **Sliding Window** | Algorithmic Techniques | 3 | [View Sliding Window](#sliding-window) |
+| 🪟 **Sliding Window** | Algorithmic Techniques | 4 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 5 | [View Strings](#strings) |
 | 🔍 **Binary Search** | Searching & Sorting | 6 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 7 | [View Sorting](#sorting) |
 | 🗄️ **Database** | SQL & Relational Queries | 11 | [View Database](#database) |
-| 🔢 **Math** | Mathematical Techniques | 12 | [View Math](#math) |
+| 🔢 **Math** | Mathematical Techniques | 13 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 3 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 2 | [View Stack and Queue](#stack-and-queue) |
 | 🔗 **Linked Lists** | Linear Data Structures | 4 | [View Linked Lists](#linked-lists) |
 | 🔁 **Recursion** | Core Foundations | 1 | [View Recursion](#recursion) |
-| #️⃣ **Hashing** | Associative Structures | 6 | [View Hashing](#hashing) |
+| #️⃣ **Hashing** | Associative Structures | 7 | [View Hashing](#hashing) |
 | 💡 **Greedy Algorithms** | Optimization Techniques | 2 | [View Greedy Algorithms](#greedy-algorithms) |
 | 🔄 **Backtracking** | Exhaustive Search | 1 | [View Backtracking](#backtracking) |
 
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 50 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 52 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -136,7 +136,9 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays, Dynamic Programming | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 175 | [Combine Two Tables](./175-combine-two-tables/) | 🟢 Easy | Database | [View Solution](./175-combine-two-tables/combine-two-tables.sql) |
 | 182 | [Duplicate Emails](./182-duplicate-emails/) | 🟢 Easy | Database | [View Solution](./182-duplicate-emails/duplicate-emails.sql) |
+| 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | Arrays, Two Pointers, Math | [View Solution](./189-rotate-array/rotate-array.cpp) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | Arrays, Binary Search, Sliding Window, Prefix Sum | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) |
+| 219 | [Contains Duplicate II](./219-contains-duplicate-ii/) | 🟢 Easy | Arrays, Hashing, Sliding Window | [View Solution](./219-contains-duplicate-ii/contains-duplicate-ii.cpp) |
 | 237 | [Delete Node in a Linked List](./237-delete-node-in-a-linked-list/) | 🟡 Medium | Linked Lists | [View Solution](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.cpp) |
 | 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | Math, Simulation | [View Solution](./258-add-digits/add-digits.cpp) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | Arrays, Two Pointers, Binary Search | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) |
@@ -188,7 +190,9 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | [View Solution](./189-rotate-array/rotate-array.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-array/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 219 | [Contains Duplicate II](./219-contains-duplicate-ii/) | 🟢 Easy | [View Solution](./219-contains-duplicate-ii/contains-duplicate-ii.cpp) | [Solve ↗](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) | [Solve ↗](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 442 | [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array/) | 🟡 Medium | [View Solution](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
@@ -219,6 +223,7 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 61 | [Rotate List](./61-rotate-list/) | 🟡 Medium | [View Solution](./61-rotate-list/rotate-list.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-list/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
+| 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | [View Solution](./189-rotate-array/rotate-array.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-array/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
@@ -245,6 +250,7 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 |---|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 219 | [Contains Duplicate II](./219-contains-duplicate-ii/) | 🟢 Easy | [View Solution](./219-contains-duplicate-ii/contains-duplicate-ii.cpp) | [Solve ↗](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement/) | 🟡 Medium | [View Solution](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.cpp) | [Solve ↗](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 
 ### Strings
@@ -326,6 +332,7 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 |---|---|---|---|---|
 | 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | [View Solution](./50-powx-n/powx-n.cpp) | [Solve ↗](https://leetcode.com/problems/powx-n/) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | [View Solution](./189-rotate-array/rotate-array.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-array/) |
 | 258 | [Add Digits](./258-add-digits/) | 🟢 Easy | [View Solution](./258-add-digits/add-digits.cpp) | [Solve ↗](https://leetcode.com/problems/add-digits/) |
 | 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | [View Solution](./292-nim-game/nim-game.cpp) | [Solve ↗](https://leetcode.com/problems/nim-game/) |
 | 319 | [Bulb Switcher](./319-bulb-switcher/) | 🟡 Medium | [View Solution](./319-bulb-switcher/bulb-switcher.cpp) | [Solve ↗](https://leetcode.com/problems/bulb-switcher/) |
@@ -348,6 +355,7 @@ A comprehensive catalog of all 50 solved problems, ordered by public LeetCode pr
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | 🟡 Medium | [View Solution](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | [Solve ↗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 219 | [Contains Duplicate II](./219-contains-duplicate-ii/) | 🟢 Easy | [View Solution](./219-contains-duplicate-ii/contains-duplicate-ii.cpp) | [Solve ↗](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement/) | 🟡 Medium | [View Solution](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.cpp) | [Solve ↗](https://leetcode.com/problems/longest-repeating-character-replacement/) |
 | 442 | [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array/) | 🟡 Medium | [View Solution](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
@@ -387,7 +395,7 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (50 problem directories)
+├── ... (52 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
