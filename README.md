@@ -14,10 +14,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-61-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-34-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-27-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
-  <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-64-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-35-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-28-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Hard-1-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
 
@@ -81,10 +81,10 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **61** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **34** | 55.7% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **27** | 44.3% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
-| 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
+| **Total Unique Solved** | **64** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **35** | 54.7% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **28** | 43.8% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| 🔴 **Hard** | **1** | 1.6% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
 > ℹ️ *Note: A problem may cross-apply to multiple algorithmic categories (e.g., both Arrays and Prefix Sum), but is counted exactly once in the overall unique total.*
@@ -98,14 +98,14 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 33 | [View Arrays](#arrays) |
+| 📦 **Arrays** | Linear Data Structures | 35 | [View Arrays](#arrays) |
 | 🎯 **Two Pointers** | Algorithmic Techniques | 14 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 10 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 4 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 6 | [View Strings](#strings) |
-| 🔍 **Binary Search** | Searching & Sorting | 12 | [View Binary Search](#binary-search) |
+| 🔍 **Binary Search** | Searching & Sorting | 14 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 8 | [View Sorting](#sorting) |
-| 🗄️ **Database** | SQL & Relational Queries | 11 | [View Database](#database) |
+| 🗄️ **Database** | SQL & Relational Queries | 12 | [View Database](#database) |
 | 🔢 **Math** | Mathematical Techniques | 13 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 3 | [View Dynamic Programming](#dynamic-programming) |
 | 🥞 **Stack and Queue** | Linear Data Structures | 3 | [View Stack and Queue](#stack-and-queue) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 61 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 64 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -138,6 +138,8 @@ A comprehensive catalog of all 61 solved problems, ordered by public LeetCode pr
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | Two Pointers, Arrays, Sorting | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays, Dynamic Programming | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 125 | [Valid Palindrome](./125-valid-palindrome/) | 🟢 Easy | Two Pointers, Strings | [View Solution](./125-valid-palindrome/valid-palindrome.cpp) |
+| 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |
+| 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Arrays, Binary Search | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Arrays, Two Pointers, Binary Search | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) |
 | 175 | [Combine Two Tables](./175-combine-two-tables/) | 🟢 Easy | Database | [View Solution](./175-combine-two-tables/combine-two-tables.sql) |
 | 182 | [Duplicate Emails](./182-duplicate-emails/) | 🟢 Easy | Database | [View Solution](./182-duplicate-emails/duplicate-emails.sql) |
@@ -174,6 +176,7 @@ A comprehensive catalog of all 61 solved problems, ordered by public LeetCode pr
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | Arrays, Two Pointers, Binary Search, Sorting | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
 | 1480 | [Running Sum of 1d Array](./1603-running-sum-of-1d-array/) | 🟢 Easy | Prefix Sum, Arrays | [View Solution](./1603-running-sum-of-1d-array/running-sum-of-1d-array.cpp) |
 | 1588 | [Sum of All Odd Length Subarrays](./1693-sum-of-all-odd-length-subarrays/) | 🟢 Easy | Arrays, Prefix Sum, Math | [View Solution](./1693-sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.cpp) |
+| 1667 | [Fix Names in a Table](./1811-fix-names-in-a-table/) | 🟢 Easy | Database | [View Solution](./1811-fix-names-in-a-table/fix-names-in-a-table.sql) |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/) | 🟡 Medium | Arrays, Prefix Sum, Math | [View Solution](./1872-can-you-eat-your-favorite-candy-on-your-favorite-day/can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) |
 | 1749 | [Maximum Absolute Sum of Any Subarray](./1849-maximum-absolute-sum-of-any-subarray/) | 🟡 Medium | Arrays, Dynamic Programming | [View Solution](./1849-maximum-absolute-sum-of-any-subarray/maximum-absolute-sum-of-any-subarray.cpp) |
 | 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | Database | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |
@@ -202,6 +205,8 @@ A comprehensive catalog of all 61 solved problems, ordered by public LeetCode pr
 | 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | [View Solution](./189-rotate-array/rotate-array.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-array/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -291,6 +296,8 @@ A comprehensive catalog of all 61 solved problems, ordered by public LeetCode pr
 | 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
@@ -326,6 +333,7 @@ A comprehensive catalog of all 61 solved problems, ordered by public LeetCode pr
 | 619 | [Biggest Single Number](./619-biggest-single-number/) | 🟢 Easy | [View Solution](./619-biggest-single-number/biggest-single-number.sql) | [Solve ↗](https://leetcode.com/problems/biggest-single-number/) |
 | 620 | [Not Boring Movies](./620-not-boring-movies/) | 🟢 Easy | [View Solution](./620-not-boring-movies/not-boring-movies.sql) | [Solve ↗](https://leetcode.com/problems/not-boring-movies/) |
 | 627 | [Swap Sex of Employees](./627-swap-sex-of-employees/) | 🟢 Easy | [View Solution](./627-swap-sex-of-employees/swap-sex-of-employees.sql) | [Solve ↗](https://leetcode.com/problems/swap-sex-of-employees/) |
+| 1667 | [Fix Names in a Table](./1811-fix-names-in-a-table/) | 🟢 Easy | [View Solution](./1811-fix-names-in-a-table/fix-names-in-a-table.sql) | [Solve ↗](https://leetcode.com/problems/fix-names-in-a-table/) |
 | 1757 | [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products/) | 🟢 Easy | [View Solution](./1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) | [Solve ↗](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
 | 1873 | [Calculate Special Bonus](./2024-calculate-special-bonus/) | 🟢 Easy | [View Solution](./2024-calculate-special-bonus/calculate-special-bonus.sql) | [Solve ↗](https://leetcode.com/problems/calculate-special-bonus/) |
 
@@ -425,11 +433,11 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (61 problem directories)
+├── ... (64 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
-> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #704, #921, #974, #977, #1019, #1109, #1385, #1480, #1588, #1744, #1749, #1757, #1873, #1877, #1991, #2089, #2409, #2848, #3736, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `792` for #704, `1016` for #974, `1019` for #977, `1072` for #1019, `1206` for #1109, `1486` for #1385, `1849` for #1749, `1908` for #1757, `1988` for #1877, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4116` for #3736, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
+> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #704, #921, #974, #977, #1019, #1109, #1385, #1480, #1588, #1667, #1744, #1749, #1757, #1873, #1877, #1991, #2089, #2409, #2848, #3736, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `792` for #704, `1016` for #974, `1019` for #977, `1072` for #1019, `1206` for #1109, `1486` for #1385, `1811` for #1667, `1849` for #1749, `1908` for #1757, `1988` for #1877, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4116` for #3736, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
 
 ---
 
