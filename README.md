@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-55-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-30-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-25-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-61-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-34-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium-27-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-0-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,9 +81,9 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **55** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **30** | 54.5% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **25** | 45.5% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| **Total Unique Solved** | **61** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **34** | 55.7% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **27** | 44.3% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
 | 🔴 **Hard** | **0** | 0.0% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
@@ -98,13 +98,13 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 28 | [View Arrays](#arrays) |
-| 🎯 **Two Pointers** | Algorithmic Techniques | 13 | [View Two Pointers](#two-pointers) |
+| 📦 **Arrays** | Linear Data Structures | 33 | [View Arrays](#arrays) |
+| 🎯 **Two Pointers** | Algorithmic Techniques | 14 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 10 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 4 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 6 | [View Strings](#strings) |
-| 🔍 **Binary Search** | Searching & Sorting | 7 | [View Binary Search](#binary-search) |
-| 🔀 **Sorting** | Searching & Sorting | 7 | [View Sorting](#sorting) |
+| 🔍 **Binary Search** | Searching & Sorting | 12 | [View Binary Search](#binary-search) |
+| 🔀 **Sorting** | Searching & Sorting | 8 | [View Sorting](#sorting) |
 | 🗄️ **Database** | SQL & Relational Queries | 11 | [View Database](#database) |
 | 🔢 **Math** | Mathematical Techniques | 13 | [View Math](#math) |
 | ⚡ **Dynamic Programming** | Advanced Optimization | 3 | [View Dynamic Programming](#dynamic-programming) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 55 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 61 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -129,6 +129,9 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 19 | [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked Lists, Two Pointers | [View Solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.cpp) |
 | 22 | [Generate Parentheses](./22-generate-parentheses/) | 🟡 Medium | Strings, Backtracking, Dynamic Programming | [View Solution](./22-generate-parentheses/generate-parentheses.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | Two Pointers, Arrays | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
+| 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) |
+| 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | Arrays, Binary Search | [View Solution](./35-search-insert-position/search-insert-position.cpp) |
 | 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | Math, Recursion | [View Solution](./50-powx-n/powx-n.cpp) |
 | 61 | [Rotate List](./61-rotate-list/) | 🟡 Medium | Linked Lists, Two Pointers | [View Solution](./61-rotate-list/rotate-list.cpp) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | Binary Search, Math | [View Solution](./69-sqrtx/sqrtx.cpp) |
@@ -148,6 +151,7 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 292 | [Nim Game](./292-nim-game/) | 🟢 Easy | Math, Game Theory | [View Solution](./292-nim-game/nim-game.cpp) |
 | 303 | [Range Sum Query - Immutable](./303-range-sum-query-immutable/) | 🟢 Easy | Prefix Sum, Arrays | [View Solution](./303-range-sum-query-immutable/range-sum-query-immutable.cpp) |
 | 319 | [Bulb Switcher](./319-bulb-switcher/) | 🟡 Medium | Math | [View Solution](./319-bulb-switcher/bulb-switcher.cpp) |
+| 374 | [Guess Number Higher or Lower](./374-guess-number-higher-or-lower/) | 🟢 Easy | Binary Search | [View Solution](./374-guess-number-higher-or-lower/guess-number-higher-or-lower.cpp) |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement/) | 🟡 Medium | Strings, Hashing, Sliding Window | [View Solution](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.cpp) |
 | 442 | [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array/) | 🟡 Medium | Arrays, Hashing, Sorting | [View Solution](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) |
 | 453 | [Minimum Moves to Equal Array Elements](./453-minimum-moves-to-equal-array-elements/) | 🟡 Medium | Arrays, Math | [View Solution](./453-minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) |
@@ -161,8 +165,10 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 620 | [Not Boring Movies](./620-not-boring-movies/) | 🟢 Easy | Database | [View Solution](./620-not-boring-movies/not-boring-movies.sql) |
 | 627 | [Swap Sex of Employees](./627-swap-sex-of-employees/) | 🟢 Easy | Database | [View Solution](./627-swap-sex-of-employees/swap-sex-of-employees.sql) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | Two Pointers, Binary Search, Math | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) |
+| 704 | [Binary Search](./792-binary-search/) | 🟢 Easy | Arrays, Binary Search | [View Solution](./792-binary-search/binary-search.cpp) |
 | 921 | [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid/) | 🟡 Medium | Stack and Queue, Strings, Greedy Algorithms | [View Solution](./957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) |
 | 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | Arrays, Prefix Sum, Hashing | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) |
+| 977 | [Squares of a Sorted Array](./1019-squares-of-a-sorted-array/) | 🟢 Easy | Arrays, Two Pointers, Sorting | [View Solution](./1019-squares-of-a-sorted-array/squares-of-a-sorted-array.cpp) |
 | 1019 | [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list/) | 🟡 Medium | Arrays, Linked Lists, Stack and Queue | [View Solution](./1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.cpp) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | Arrays, Prefix Sum | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | Arrays, Two Pointers, Binary Search, Sorting | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) |
@@ -191,6 +197,9 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 |---|---|---|---|---|
 | 15 | [3Sum](./15-3sum/) | 🟡 Medium | [View Solution](./15-3sum/3sum.cpp) | [Solve ↗](https://leetcode.com/problems/3sum/) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array/) | 🟢 Easy | [View Solution](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
@@ -203,7 +212,9 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 453 | [Minimum Moves to Equal Array Elements](./453-minimum-moves-to-equal-array-elements/) | 🟡 Medium | [View Solution](./453-minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |
 | 462 | [Minimum Moves to Equal Array Elements II](./462-minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | [View Solution](./462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
 | 560 | [Subarray Sum Equals K](./560-subarray-sum-equals-k/) | 🟡 Medium | [View Solution](./560-subarray-sum-equals-k/subarray-sum-equals-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 704 | [Binary Search](./792-binary-search/) | 🟢 Easy | [View Solution](./792-binary-search/binary-search.cpp) | [Solve ↗](https://leetcode.com/problems/binary-search/) |
 | 974 | [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k/) | 🟡 Medium | [View Solution](./1016-subarray-sums-divisible-by-k/subarray-sums-divisible-by-k.cpp) | [Solve ↗](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
+| 977 | [Squares of a Sorted Array](./1019-squares-of-a-sorted-array/) | 🟢 Easy | [View Solution](./1019-squares-of-a-sorted-array/squares-of-a-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 1019 | [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list/) | 🟡 Medium | [View Solution](./1072-next-greater-node-in-linked-list/next-greater-node-in-linked-list.cpp) | [Solve ↗](https://leetcode.com/problems/next-greater-node-in-linked-list/) |
 | 1109 | [Corporate Flight Bookings](./1206-corporate-flight-bookings/) | 🟡 Medium | [View Solution](./1206-corporate-flight-bookings/corporate-flight-bookings.cpp) | [Solve ↗](https://leetcode.com/problems/corporate-flight-bookings/) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
@@ -233,6 +244,7 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 234 | [Palindrome Linked List](./234-palindrome-linked-list/) | 🟢 Easy | [View Solution](./234-palindrome-linked-list/palindrome-linked-list.cpp) | [Solve ↗](https://leetcode.com/problems/palindrome-linked-list/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 977 | [Squares of a Sorted Array](./1019-squares-of-a-sorted-array/) | 🟢 Easy | [View Solution](./1019-squares-of-a-sorted-array/squares-of-a-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
 | 1877 | [Minimize Maximum Pair Sum in Array](./1988-minimize-maximum-pair-sum-in-array/) | 🟡 Medium | [View Solution](./1988-minimize-maximum-pair-sum-in-array/minimize-maximum-pair-sum-in-array.cpp) | [Solve ↗](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) |
 
@@ -275,11 +287,16 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 
 | # | Problem | Difficulty | Solution | Links |
 |---|---|---|---|---|
+| 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 374 | [Guess Number Higher or Lower](./374-guess-number-higher-or-lower/) | 🟢 Easy | [View Solution](./374-guess-number-higher-or-lower/guess-number-higher-or-lower.cpp) | [Solve ↗](https://leetcode.com/problems/guess-number-higher-or-lower/) |
 | 633 | [Sum of Square Numbers](./633-sum-of-square-numbers/) | 🟡 Medium | [View Solution](./633-sum-of-square-numbers/sum-of-square-numbers.cpp) | [Solve ↗](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 704 | [Binary Search](./792-binary-search/) | 🟢 Easy | [View Solution](./792-binary-search/binary-search.cpp) | [Solve ↗](https://leetcode.com/problems/binary-search/) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
 | 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 
@@ -291,6 +308,7 @@ A comprehensive catalog of all 55 solved problems, ordered by public LeetCode pr
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 442 | [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array/) | 🟡 Medium | [View Solution](./442-find-all-duplicates-in-an-array/find-all-duplicates-in-an-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |
 | 462 | [Minimum Moves to Equal Array Elements II](./462-minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | [View Solution](./462-minimum-moves-to-equal-array-elements-ii/minimum-moves-to-equal-array-elements-ii.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |
+| 977 | [Squares of a Sorted Array](./1019-squares-of-a-sorted-array/) | 🟢 Easy | [View Solution](./1019-squares-of-a-sorted-array/squares-of-a-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 1385 | [Find the Distance Value Between Two Arrays](./1486-find-the-distance-value-between-two-arrays/) | 🟢 Easy | [View Solution](./1486-find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
 | 1877 | [Minimize Maximum Pair Sum in Array](./1988-minimize-maximum-pair-sum-in-array/) | 🟡 Medium | [View Solution](./1988-minimize-maximum-pair-sum-in-array/minimize-maximum-pair-sum-in-array.cpp) | [Solve ↗](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) |
 | 2089 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | 🟢 Easy | [View Solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
@@ -407,11 +425,11 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (55 problem directories)
+├── ... (61 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
-> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #921, #974, #1019, #1109, #1385, #1480, #1588, #1744, #1749, #1757, #1873, #1877, #1991, #2089, #2409, #2848, #3736, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `1016` for #974, `1072` for #1019, `1206` for #1109, `1486` for #1385, `1849` for #1749, `1908` for #1757, `1988` for #1877, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4116` for #3736, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
+> 📌 *Note on LeetSync folder naming: LeetSync names folders using the pattern `<id>-<slug>`. For a few questions (e.g., #704, #921, #974, #977, #1019, #1109, #1385, #1480, #1588, #1744, #1749, #1757, #1873, #1877, #1991, #2089, #2409, #2848, #3736, #3963), LeetSync uses LeetCode's internal database `questionId` (e.g., `792` for #704, `1016` for #974, `1019` for #977, `1072` for #1019, `1206` for #1109, `1486` for #1385, `1849` for #1749, `1908` for #1757, `1988` for #1877, `2024` for #1873, `2102` for #1991, `2496` for #2409, `4116` for #3736, `4342` for #3963). All links in this index point directly to the exact folders and solution files.*
 
 ---
 
