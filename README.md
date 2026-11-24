@@ -14,9 +14,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Total_Solved-64-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-66-FF9F43?style=for-the-badge&labelColor=FF9F43" alt="Total Solved" />
   <img src="https://img.shields.io/badge/Easy-35-3FB950?style=for-the-badge&labelColor=3FB950" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium-28-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Medium-30-D29922?style=for-the-badge&labelColor=D29922" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard-1-F85149?style=for-the-badge&labelColor=F85149" alt="Hard Solved" />
   <img src="https://img.shields.io/badge/Topics-16-FFC078?style=for-the-badge&labelColor=FFC078" alt="Topics Count" />
 </p>
@@ -81,10 +81,10 @@ All statistics are derived directly from verified solution files in this reposit
 
 | Metric | Count | Ratio | Indicator |
 |---|:---:|:---:|---|
-| **Total Unique Solved** | **64** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
-| 🟢 **Easy** | **35** | 54.7% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
-| 🟡 **Medium** | **28** | 43.8% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
-| 🔴 **Hard** | **1** | 1.6% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
+| **Total Unique Solved** | **66** | 100% | ![#FF9F43](https://img.shields.io/badge/-All%20Problems-FF9F43?style=flat-square) |
+| 🟢 **Easy** | **35** | 53.0% | ![#3FB950](https://img.shields.io/badge/-Easy-3FB950?style=flat-square) |
+| 🟡 **Medium** | **30** | 45.5% | ![#D29922](https://img.shields.io/badge/-Medium-D29922?style=flat-square) |
+| 🔴 **Hard** | **1** | 1.5% | ![#F85149](https://img.shields.io/badge/-Hard-F85149?style=flat-square) |
 | 🏷️ **Topics Represented** | **16** | — | ![#FFC078](https://img.shields.io/badge/-16%20Categories-FFC078?style=flat-square) |
 
 > ℹ️ *Note: A problem may cross-apply to multiple algorithmic categories (e.g., both Arrays and Prefix Sum), but is counted exactly once in the overall unique total.*
@@ -98,12 +98,12 @@ Click any category below to navigate directly to its dedicated solutions table:
 
 | Topic | Category | Problems | Jump to Section |
 |---|---|:---:|---|
-| 📦 **Arrays** | Linear Data Structures | 35 | [View Arrays](#arrays) |
+| 📦 **Arrays** | Linear Data Structures | 37 | [View Arrays](#arrays) |
 | 🎯 **Two Pointers** | Algorithmic Techniques | 14 | [View Two Pointers](#two-pointers) |
 | ➕ **Prefix Sum** | Algorithmic Techniques | 10 | [View Prefix Sum](#prefix-sum) |
 | 🪟 **Sliding Window** | Algorithmic Techniques | 4 | [View Sliding Window](#sliding-window) |
 | 🔤 **Strings** | Linear Data Structures | 6 | [View Strings](#strings) |
-| 🔍 **Binary Search** | Searching & Sorting | 14 | [View Binary Search](#binary-search) |
+| 🔍 **Binary Search** | Searching & Sorting | 16 | [View Binary Search](#binary-search) |
 | 🔀 **Sorting** | Searching & Sorting | 8 | [View Sorting](#sorting) |
 | 🗄️ **Database** | SQL & Relational Queries | 12 | [View Database](#database) |
 | 🔢 **Math** | Mathematical Techniques | 13 | [View Math](#math) |
@@ -120,7 +120,7 @@ Click any category below to navigate directly to its dedicated solutions table:
 <a id="complete-problem-index"></a>
 ## 📋 Complete Problem Index
 
-A comprehensive catalog of all 64 solved problems, ordered by public LeetCode problem number:
+A comprehensive catalog of all 66 solved problems, ordered by public LeetCode problem number:
 
 | # | Problem | Difficulty | Topics | Solution |
 |:---:|---|:---:|---|:---:|
@@ -135,11 +135,13 @@ A comprehensive catalog of all 64 solved problems, ordered by public LeetCode pr
 | 50 | [Pow(x, n)](./50-powx-n/) | 🟡 Medium | Math, Recursion | [View Solution](./50-powx-n/powx-n.cpp) |
 | 61 | [Rotate List](./61-rotate-list/) | 🟡 Medium | Linked Lists, Two Pointers | [View Solution](./61-rotate-list/rotate-list.cpp) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | Binary Search, Math | [View Solution](./69-sqrtx/sqrtx.cpp) |
+| 81 | [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | Two Pointers, Arrays, Sorting | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays, Dynamic Programming | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 125 | [Valid Palindrome](./125-valid-palindrome/) | 🟢 Easy | Two Pointers, Strings | [View Solution](./125-valid-palindrome/valid-palindrome.cpp) |
 | 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |
 | 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | Arrays, Binary Search | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) |
+| 162 | [Find Peak Element](./162-find-peak-element/) | 🟡 Medium | Arrays, Binary Search | [View Solution](./162-find-peak-element/find-peak-element.cpp) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Arrays, Two Pointers, Binary Search | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) |
 | 175 | [Combine Two Tables](./175-combine-two-tables/) | 🟢 Easy | Database | [View Solution](./175-combine-two-tables/combine-two-tables.sql) |
 | 182 | [Duplicate Emails](./182-duplicate-emails/) | 🟢 Easy | Database | [View Solution](./182-duplicate-emails/duplicate-emails.sql) |
@@ -203,10 +205,12 @@ A comprehensive catalog of all 64 solved problems, ordered by public LeetCode pr
 | 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 | 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
+| 81 | [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii/) | 🟡 Medium | [View Solution](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | 🟢 Easy | [View Solution](./88-merge-sorted-array/merge-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/merge-sorted-array/) |
 | 121 | [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock/) | 🟢 Easy | [View Solution](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) | [Solve ↗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
+| 162 | [Find Peak Element](./162-find-peak-element/) | 🟡 Medium | [View Solution](./162-find-peak-element/find-peak-element.cpp) | [Solve ↗](https://leetcode.com/problems/find-peak-element/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 189 | [Rotate Array](./189-rotate-array/) | 🟡 Medium | [View Solution](./189-rotate-array/rotate-array.cpp) | [Solve ↗](https://leetcode.com/problems/rotate-array/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
@@ -296,8 +300,10 @@ A comprehensive catalog of all 64 solved problems, ordered by public LeetCode pr
 | 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [View Solution](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 35 | [Search Insert Position](./35-search-insert-position/) | 🟢 Easy | [View Solution](./35-search-insert-position/search-insert-position.cpp) | [Solve ↗](https://leetcode.com/problems/search-insert-position/) |
 | 69 | [Sqrt(x)](./69-sqrtx/) | 🟢 Easy | [View Solution](./69-sqrtx/sqrtx.cpp) | [Solve ↗](https://leetcode.com/problems/sqrtx/) |
+| 81 | [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii/) | 🟡 Medium | [View Solution](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |
 | 153 | [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array/) | 🟡 Medium | [View Solution](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 154 | [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii/) | 🔴 Hard | [View Solution](./154-find-minimum-in-rotated-sorted-array-ii/find-minimum-in-rotated-sorted-array-ii.cpp) | [Solve ↗](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
+| 162 | [Find Peak Element](./162-find-peak-element/) | 🟡 Medium | [View Solution](./162-find-peak-element/find-peak-element.cpp) | [Solve ↗](https://leetcode.com/problems/find-peak-element/) |
 | 167 | [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted/) | 🟡 Medium | [View Solution](./167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) | [Solve ↗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 209 | [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum/) | 🟡 Medium | [View Solution](./209-minimum-size-subarray-sum/minimum-size-subarray-sum.cpp) | [Solve ↗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 287 | [Find the Duplicate Number](./287-find-the-duplicate-number/) | 🟡 Medium | [View Solution](./287-find-the-duplicate-number/find-the-duplicate-number.cpp) | [Solve ↗](https://leetcode.com/problems/find-the-duplicate-number/) |
@@ -433,7 +439,7 @@ LEETCODE-Questions/
 │   ├── corporate-flight-bookings.cpp
 │   ├── README.md
 │   └── Notes.md
-├── ... (64 problem directories)
+├── ... (66 problem directories)
 └── README.md                  # Central index & progress dashboard
 ```
 
