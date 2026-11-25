@@ -7,17 +7,20 @@ public:
         sort(nums.begin() , nums.end());
         while(low <= high){
             int mid = low + (high - low) / 2;
+
             if(nums[low] <= nums[mid]){
+
                 if(nums[low] <= target && target <= nums[mid]){
                     high = mid - 1;
                 }else{
                     low = mid + 1;
                 }
             }else{
+                
                 if(nums[mid] < target && target <= nums[high]){
                     high = mid - 1;
                 }else{
-                    low = mid - 1;
+                    low = mid + 1;
                 }
             }
         }  
